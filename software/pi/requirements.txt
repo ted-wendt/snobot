@@ -1,0 +1,6 @@
+pyserial
+smbus2
+adafruit-circuitpython-pca9685
+pyvesc
+numpy
+opencv-python

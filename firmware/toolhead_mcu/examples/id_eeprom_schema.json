@@ -1,0 +1,13 @@
+{
+  "schema": "sno-bot.toolhead-id.v1",
+  "type": "thrower",
+  "gear_ratio": 1.0,
+  "limits": {
+    "current_A": 30,
+    "rpm": 4000
+  },
+  "calibration": {
+    "chute_min_deg": 0,
+    "chute_max_deg": 360
+  }
+}
